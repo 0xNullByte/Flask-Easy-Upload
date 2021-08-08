@@ -44,4 +44,8 @@ limit = 50
     `export FLASK_APP = 'APP.py' `<br>
   
   - Run the Flask application :<br>
-    `flask run`
+    `flask run`<br>
+
+# **Feel free to contact me:**
+   - Discord : `! S𝔸L𝕄𝔸N ♫#1337`<br>
+   - Instagram : `@9du`
